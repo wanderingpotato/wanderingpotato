@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm Wirja</h1>
+<h1 align="center">Hello, I Am Mind Of Potato</h1>
 <h3 align="center">A Guy With A Potato Brain</h3>
 
 - 🔭 I’m currently working on **An Organitation Website**
 
 - 🌱 I’m currently learning **Mobile Development And Game Development**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
