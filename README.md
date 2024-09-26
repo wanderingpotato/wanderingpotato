@@ -1,10 +1,7 @@
 <h1 align="center">Hello, I Am Mind Of Potato</h1>
 <h3 align="center">A Guy With A Potato Brain</h3>
 
-- 🔭 I’m currently working on **An Organitation Website**
-
-- 🌱 I’m currently learning **Mobile Development And Game Development**
-
+- <h4>to be honest I <strong>Dont</strong> know the fuck i am doing</h4>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
